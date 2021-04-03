@@ -1,0 +1,2 @@
+1->Copy all files from folders inside DATA IN CHUNK
+2->TO trainset
